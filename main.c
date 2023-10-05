@@ -221,10 +221,3 @@ secreto entre 1 e 100. Forneça dicas de "maior" ou "menor" até que o usuário 
             }
         }
 }
-
-void exercicio12(){
-    /* Faça um programa que exiba a sequência de Fibonacci até um número específico
-fornecido pelo usuário. A sequência começa com 0 e 1, e cada termo subsequente é
-a soma dos dois anteriores.*/
-    
-}
